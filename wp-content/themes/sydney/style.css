@@ -3117,7 +3117,7 @@ Panels
 			line-height: 120%;
 			text-align: left;
 			margin-top: 40% !important;
-			margin-left: 10%;
+			margin-left: 11%;
 		}
 		.raisky-title-1 {
 			font-weight: lighter;
@@ -3136,7 +3136,7 @@ Panels
 			line-height: 100%;
 			text-align: left;
 			margin-top: 50% !important;
-			margin-left: 10%;
+			margin-left: 11%;
 		}
 		/****/
 		.posts-layout {
@@ -3231,11 +3231,11 @@ Panels
 		}
 
 		.raisky-title {
-			margin-left: 20%;
+			margin-left: 15%;
 		}
 
 		.raisky-number-and-email {
-			margin-left: 20%;
+			margin-left: 15%;
 		}
 
 		.roll-project.fullwidth .project-item {
@@ -3288,6 +3288,7 @@ Panels
 			line-height: 120%;
 			text-align: left;
 			margin-top: 40% !important;
+			margin-left: 26%;
 		}
 		.raisky-title-1 {
 			font-weight: lighter;
@@ -3306,6 +3307,7 @@ Panels
 			line-height: 100%;
 			text-align: left;
 			margin-top: 50% !important;
+			margin-left: 26%;
 		}
 
 		.text-slider {
