@@ -3116,8 +3116,8 @@ Panels
 		.raisky-title {
 			line-height: 120%;
 			text-align: left;
-			margin-top: 40% !important;
-			margin-left: 11%;
+			margin-top: 20% !important;
+			margin-left: 23%;
 		}
 		.raisky-title-1 {
 			font-weight: lighter;
@@ -3130,13 +3130,17 @@ Panels
 			margin-top: 5% !important;
 		}
 
+		.svg-image-key {
+			margin-left: 23%;
+		}
+
 		.raisky-number-and-email {
 
 			font-size: 16px !important;
 			line-height: 100%;
 			text-align: left;
-			margin-top: 50% !important;
-			margin-left: 11%;
+			margin-top: 20% !important;
+			margin-left: 23%;
 		}
 		/****/
 		.posts-layout {
@@ -3231,11 +3235,17 @@ Panels
 		}
 
 		.raisky-title {
-			margin-left: 15%;
+			margin-left: 29%;
+			margin-top: 15% !important;
 		}
 
 		.raisky-number-and-email {
-			margin-left: 15%;
+			margin-left: 29%;
+			margin-top: 30% !important;
+		}
+
+		.svg-image-key {
+			margin-left: 29%;
 		}
 
 		.roll-project.fullwidth .project-item {
@@ -3285,11 +3295,11 @@ Panels
 
 
 		.raisky-title {
-			line-height: 120%;
-			text-align: left;
-			margin-top: 40% !important;
-			margin-left: 26%;
-		}
+			 line-height: 120%;
+			 text-align: left;
+			 margin-top: 40% !important;
+			 margin-left: 26%;
+		 }
 		.raisky-title-1 {
 			font-weight: lighter;
 			font-size: 20px !important;
@@ -3300,6 +3310,13 @@ Panels
 			font-size: 10px !important;
 			margin-top: 5% !important;
 		}
+		.svg-image-key {
+			margin-left: 26%;
+			width: 8px !important;
+			height: 25px !important;
+			margin-top: 20% !important;
+		}
+
 
 		.raisky-number-and-email {
 
@@ -3382,9 +3399,8 @@ body {
 
 .svg-image-key {
 	margin-top: 7%;
-	background: url('/wp-content/themes/sydney/img/key.svg');
-	margin-left: auto;
-	margin-right: auto;
+	width: 15px;
+	height: 46px;
 }
 
 

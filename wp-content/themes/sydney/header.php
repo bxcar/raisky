@@ -9,6 +9,7 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
+    <link rel="icon" type="image/png" href="/wp-content/themes/sydney/img/png-icon/RAISKY_fav_icon.png" />
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -30,8 +31,10 @@
     <div class="align-text-raisky">
         <div class="svg-image">
 <!--        <div class="svg-image" style="width: 168px; height: 59px;"></div>-->
-            <object class="svg-image-large" type="image/svg+xml" data="/wp-content/themes/sydney/img/Untitled-3.svg"></object>
-            <object class="svg-image-small" type="image/svg+xml" data="/wp-content/themes/sydney/img/untitled-320.svg"></object>
+            <img style="width: 173px; height: 59px"  class="svg-image-large" src="/wp-content/themes/sydney/img/png-icon/RAISKY_logo.png">
+<!--            <object class="svg-image-large" type="image/svg+xml" data="/wp-content/themes/sydney/img/Untitled-3.svg"></object>-->
+            <img style="width: 223px; height: 102px" class="svg-image-small" src="/wp-content/themes/sydney/img/png-icon/RAISKY_logo2.png">
+<!--            <object class="svg-image-small" type="image/svg+xml" data="/wp-content/themes/sydney/img/untitled-320.svg"></object>-->
     </div>
         <div class="raisky-title">
             <p class="raisky-title-1">Life is about moments</p>
@@ -42,7 +45,7 @@
             <p class="raisky-number">+38 067 0000111</p>
             <p class="raisky-email">res@raisky.com.ua</p>
         </div>
-        <object class="svg-image-key" type="image/svg+xml" style="width: 15px; height: 46px;"></object>
+        <img class="svg-image-key"  src="/wp-content/themes/sydney/img/png-icon/RAISKY_key_icon.png">
     </div>
 </div>
 </body>
